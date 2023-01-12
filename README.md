@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Pronouns: she/her
-View public_key.asc for my GPG public key.
+- View public_key.asc for my GPG public key.
