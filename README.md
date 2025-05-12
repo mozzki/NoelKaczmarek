@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m about to study Molecular Life Sciences
 - 🔒 View public_key.asc for my GPG public key
 - ☕️:
-   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T81DSD9Y)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T81DSD9Y)
