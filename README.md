@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hey there 👋
 
 <!--
 **NoelKaczmarek/NoelKaczmarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Pronouns: she/her
-- View public_key.asc for my GPG public key.
+- 🗣️ Pronouns: she/her
+- 🌱 I’m about to study Molecular Life Sciences
+- 🔒 View public_key.asc for my GPG public key
+- ☕️ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T81DSD9Y)
